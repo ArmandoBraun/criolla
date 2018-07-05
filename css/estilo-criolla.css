@@ -1,3 +1,8 @@
+.bio {
+  margin-top: 50px!important;
+  background-color:#CBC6BB
+}
+
 .container-fluid {
   margin-top: 100px;
 }
@@ -5,6 +10,10 @@
 .imagen-historia {
   width:50%;
   float: left;
+}
+
+.criolla-caballo {
+  width: 100%;
 }
 
 .bio h1 {
@@ -262,6 +271,10 @@ footer a:hover {
 }
 
 @media (min-width: 992px) {
+
+.criolla-caballo {
+  width: 75%;
+}
 
 .bio h1 {
 	color: #006e5b;
