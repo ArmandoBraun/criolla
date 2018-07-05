@@ -250,6 +250,15 @@ footer a:hover {
   text-decoration: none;
 }
 
+.footer-icon {
+  width: 25px;
+  margin-right: 22px;
+}
+
+.footer-icon:hover {
+  width: 35px;
+}
+
 @media (min-width: 992px) {
 
 .bio h1 {
@@ -324,15 +333,6 @@ footer a {
   font-size: 1rem;
   text-decoration: none;
   color: white;
-}
-
-.footer-icon {
-  width: 25px;
-  margin-right: 22px;
-}
-
-.footer-icon:hover {
-  width: 35px;
 }
 
 }
